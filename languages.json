@@ -1,0 +1,98 @@
+{
+  "pt": {
+    "SIGN_IN": "Entrar",
+    "navMenuLinks": [
+      {
+        "id": 1,
+        "name": "Produtos",
+        "links": [
+          {
+            "id": 1,
+            "name": "Informática",
+            "description": "Informática para te alegrar o teu dia",
+            "href": "/computing"
+          },
+          {
+            "id": 2,
+            "name": "TV e Som",
+            "description": "Tv e som lets go",
+            "href": "/computing"
+          },
+          {
+            "id": 3,
+            "name": "Telemóveis e Smartwatches",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 4,
+            "name": "Gaming",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 5,
+            "name": "Jogos e Brinquedos",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 6,
+            "name": "Eletrodomésticos",
+            "description": "",
+            "href": "/computing"
+          }
+        ]
+      },
+      { "id": 2, "name": "Promoções" }
+    ]
+  },
+  "en": {
+    "SIGN_IN": "Sign In",
+    "navMenuLinks": [
+      {
+        "id": 1,
+        "name": "Products",
+        "links": [
+          {
+            "id": 1,
+            "name": "Computing",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 2,
+            "name": "TV and Sound",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 3,
+            "name": "Smartphones e Smartwatches",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 4,
+            "name": "Gaming",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 5,
+            "name": "Games e toys",
+            "description": "",
+            "href": "/computing"
+          },
+          {
+            "id": 6,
+            "name": "Home appliances",
+            "description": "",
+            "href": "/computing"
+          }
+        ]
+      },
+      { "id": 2, "name": "Sales" }
+    ]
+  }
+}
